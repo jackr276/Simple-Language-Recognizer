@@ -60,6 +60,8 @@
     "ostream": "cpp",
     "*.tcc": "cpp",
     "iostream": "cpp",
-    "iosfwd": "cpp"
+    "iosfwd": "cpp",
+    "string": "cpp",
+    "queue": "cpp"
   }
 }
